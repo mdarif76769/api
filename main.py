@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ১. @BotFather থেকে পাওয়া টোকেনটি এখানে বসান
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = os.environ.get("BOT_TOKEN") 
 
 # --- রেন্ডার ২৪ ঘণ্টা লাইভ রাখার জন্য ফেইক ওয়েব সার্ভার ---
 class HealthCheckHandler(BaseHTTPRequestHandler):
