@@ -16,7 +16,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 TOKEN = os.environ.get("BOT_TOKEN")
 ADMIN_ID = int(os.environ.get("ADMIN_ID", 0))
 
-BOT_VERSION = "8.0 (Advanced Pro Intelligence Build)"
+BOT_VERSION = "9.0 (RS5_ARIF Pro Core Intel Build)"
 DB_FILE = "bot_data.db"
 
 SECURITY_TIPS = [
@@ -27,7 +27,7 @@ SECURITY_TIPS = [
     "Keep your automated lab environments isolated from your primary host network using proper VLANs."
 ]
 
-# ----------------- SQLITE DATABASE SYSTEM -----------------
+# ----------------- SQLite ডেটাবেস -----------------
 def get_db_connection():
     conn = sqlite3.connect(DB_FILE, timeout=30.0, check_same_thread=False)
     return conn
@@ -87,7 +87,7 @@ def get_user_profile(user_id):
     except Exception:
         return (None, None, 0)
 
-# ----------------- RENDER CLOUD HEALTH WEB SERVER -----------------
+# --- রেন্ডার ওয়েব সার্ভার ---
 class HealthCheckHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
@@ -109,14 +109,14 @@ def log_user_activity(update: Update):
     is_premium = "True 🌟" if user.is_premium else "False"
     db_track_user(user.id, update.effective_chat.id, user.first_name, user.last_name or "", user.username or "None", user.language_code or "Undefined", is_premium)
 
-# ==================== TELEGRAM SYSTEM HANDLERS ====================
+# ==================== কমান্ডস ====================
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     log_user_activity(update)
     user = update.effective_user
     chat_id = update.effective_chat.id
     
-    # ✨ মেসেজ ১: প্রধান স্বাগতম কার্ড (আপনার স্ক্রিনশটের হুবহু লেআউট ও ডিজাইন)
+    # ✨ মেসেজ ১: প্রধান স্বাগতম কার্ড (আপনার স্ক্রিনশটের হুবহু ক্লিন ও সুন্দর লেআউট)
     welcome_msg = (
         f"👋 Welcome, *{user.first_name}*!\n\n"
         f"🤖 I'm your Chat ID Bot! I can help you with:\n"
@@ -127,15 +127,15 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
     await update.message.reply_text(text=welcome_msg, parse_mode="Markdown")
     
-    # ✨ মেসেজ ২: চ্যাট আইডি কার্ড (ক্লিন ও সুন্দর ডিজাইন)
+    # ✨ মেসেজ ২: চ্যাট আইডি কার্ড
     id_msg = f"✨ *Your Chat ID is:* `{chat_id}`"
     await update.message.reply_text(text=id_msg, parse_mode="Markdown")
     
-    # ✨ মেসেজ ৩: চ্যানেল জয়েন ও ইনফো টিপস (ফুল ডিটেইলস মেটাডেটা প্রফেশনাল ভিউ)
+    # ✨ মেসেজ ৩: চ্যানেল জয়েন ও ইনফো টিপস (আপনার নিজস্ব RS5ARIF ব্র্যান্ডিং সহ বিস্তারিত তথ্য)
     tip_msg = (
-        f"🌟 *Join Our Channel:* @W8Teams\n"
+        f"🌟 *Join Our Channel:* @RS5ARIF\n"
         f"💡 *Tip:* Use /info to see your detailed information!\n\n"
-        f"📋 *Your Current Meta Profile:*\n"
+        f"📋 *Your Detailed Metadata Profile:*\n"
         f"• First Name: `{user.first_name}`\n"
         f"• Last Name: `{user.last_name or 'None'}`\n"
         f"• Username: `@{user.username or 'None'}`\n"
