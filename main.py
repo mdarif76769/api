@@ -13,7 +13,7 @@ import re
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters
 
-TOKEN = os.environ.get("8225542034:AAHa1La3HGN-E9xBqlLYQjAOztX-K7zZst4")
+TOKEN = os.environ.get("BOT_TOKEN")
 ADMIN_ID = int(os.environ.get("ADMIN_ID", 0))
 
 BOT_VERSION = "9.0 (RS5_ARIF Pro Core Intel Build)"
