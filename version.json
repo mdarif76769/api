@@ -1,22 +1,28 @@
-[
-  {
-    "com.rs5.linkchakers": {
-      "latest_version": "4.0.1",
-      "download_url": "https://t.me/RS5ARIF"
-    },
-    "Link.chak.rs5": {
-      "latest_version": "4.0.1",
-      "download_url": "https://t.me/RS5ARIF"
-    }
+{
+  "com.rs5.linkchakers": {
+    "latest_version": "4.0.1",
+    "download_url": "https://t.me/RS5ARIF"
   },
-  {
-    "com.yourname.app": {
-      "latest_version": "101",
-      "download_url": "https://t.me/your_channel"
-    },
-    "my_app_key": {
-      "latest_version": "101",
-      "download_url": "https://t.me/your_channel"
-    }
+  "Link.chak.rs5": {
+    "latest_version": "4.0.1",
+    "download_url": "https://t.me/RS5ARIF"
+  },
+
+  "com.rs5arif.apptwo": {
+    "latest_version": "1.0.0",
+    "download_url": "https://t.me/RS5ARIF"
+  },
+  "MyCustomKey.App2": {
+    "latest_version": "1.0.0",
+    "download_url": "https://t.me/RS5ARIF"
+  },
+
+  "com.rs5arif.appthree": {
+    "latest_version": "2.5.0",
+    "download_url": "https://t.me/RS5ARIF"
+  },
+  "MyCustomKey.App3": {
+    "latest_version": "2.5.0",
+    "download_url": "https://t.me/RS5ARIF"
   }
-]
+}
