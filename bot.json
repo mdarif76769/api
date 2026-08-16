@@ -3,6 +3,6 @@
   "message": "update x19",
   "download_url": "https://www.instagram.com/mdarif76769",
   "changelog": "• New UI design\n• Improved performance\n• Bug fixes",
-  "auto_detection": fals,
+  "auto_detection": false,
   "forced_redirect_url": "https://www.instagram.com/mdarif76769"
 }
