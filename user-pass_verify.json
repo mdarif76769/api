@@ -12,5 +12,12 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6d36305515d6e1d5",
+        "username": "ariful",
+        "password": "admin",
+        "Allowoffline": true,
+        "expirydate": "31-12-2099"
     }
 ]
