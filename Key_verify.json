@@ -10,5 +10,11 @@
         "key": "ariful",
         "expirydate": "26-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "key": "",
+        "Allowoffline": true,
+        "expirydate": "31-12-2026"
     }
 ]
