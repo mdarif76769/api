@@ -1,5 +1,11 @@
 [
     {
+        "version": "4.0",
+        "title": "Chat-gpt",
+        "subtitle": "New apdate",
+        "update_url": "https:// t.me/ RS5ARIF"
+    },
+    {
         "credit": "MR. NoOB",
         "show_dialog": true,
         "title": "🚀 Update Available",
