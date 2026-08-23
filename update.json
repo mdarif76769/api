@@ -1,6 +1,4 @@
 {
-  "credit": "MR. NOB",
-  "version_code": 4,
-  "version_name": "4.0",
-  "update_message": "A new update is available!"
+    "latest_version": 1,
+    "download_url": "https://yourappdownlod.link"
 }
