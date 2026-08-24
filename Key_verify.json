@@ -17,11 +17,5 @@
         "expirydate": "31-08-2026",
         "Allowoffline": true,
         "status": "active"
-    },
-    {
-        "device_id": "Gxgiy",
-        "key": "RS5-8A9K2ZK",
-        "expirydate": "23-09-2026",
-        "Allowoffline": true
     }
 ]
