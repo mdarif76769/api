@@ -5,5 +5,12 @@
         "expirydate": "22-11-2026",
         "Allowoffline": true,
         "status": "active"
+    },
+    {
+        "device_id": "hhggjy87jfud",
+        "key": "RS5-AT6VBSL",
+        "expirydate": "23-09-2026",
+        "Allowoffline": false,
+        "status": "active"
     }
 ]
