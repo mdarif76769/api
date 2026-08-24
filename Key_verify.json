@@ -4,11 +4,5 @@
         "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
-    },
-    {
-        "device_id": "b2fcb4392cbc2032",
-        "key": "ariful",
-        "expirydate": "26-08-2026",
-        "Allowoffline": false
     }
 ]
