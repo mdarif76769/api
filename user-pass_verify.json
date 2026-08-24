@@ -6,13 +6,5 @@
         "expirydate": "23-09-2026",
         "Allowoffline": true,
         "status": "active"
-    },
-    {
-        "device_id": "Ztzikxkhzkgvsg",
-        "username": "ARIFul",
-        "password": "RS5-9TDTBEY",
-        "expirydate": "31-08-2026",
-        "Allowoffline": false,
-        "status": "active"
     }
 ]
