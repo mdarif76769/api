@@ -12,13 +12,5 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "Hshahahah",
-        "username": "ARIFUL",
-        "password": "RS5-Q9AOW1V",
-        "expirydate": "23-09-2026",
-        "Allowoffline": true,
-        "status": "active"
     }
 ]
