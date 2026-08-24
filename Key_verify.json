@@ -10,5 +10,12 @@
         "key": "ariful",
         "expirydate": "26-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "Cuduxucud",
+        "key": "RS5-HC31R1L",
+        "expirydate": "31-08-2026",
+        "Allowoffline": true,
+        "status": "active"
     }
 ]
