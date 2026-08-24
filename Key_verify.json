@@ -4,5 +4,11 @@
         "key": "RS5-RR1X7SL",
         "expirydate": "23-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "Yizitigsgisgihdx",
+        "key": "RS5-4TZVWGJ",
+        "expirydate": "31-08-2026",
+        "Allowoffline": false
     }
 ]
