@@ -31,8 +31,8 @@
   "users": [
     {
       "username": "arif",
-      "password": "mypassword123",
-      "device_id": "DEV-XYZ123456789ABC",
+      "password": "RS5",
+      "device_id": "DEV-BKJKMQ-U552",
       "expiry_date": "2026-12-31",
       "is_allowed": true,
       "status": "blocked"
