@@ -1,0 +1,41 @@
+{
+  "media_assets": {
+    "use_remote_logo": false,
+    "logo_url": "https://example.com/new-logo.png",
+    "use_remote_video": false,
+    "video_url": "https://example.com/new-bg.mp4"
+  },
+  "update_system": {
+    "is_update_required": false,
+    "title": "Update Available!",
+    "subtitle": "A new version of app is ready",
+    "notes": "• Added new security features.<br>• Bug fixes and speed improvements.",
+    "download_link": "https://t.me/RS5ARIF",
+    "footer_text": "RS5 Secure Systems v2.0"
+  },
+  "ui_text": {
+    "title": "Welcome Back!",
+    "subtitle": "Secure Access Portal",
+    "username_label": "Username",
+    "password_label": "Password",
+    "login_button": "Login",
+    "divider_text": "Connect with us",
+    "footer_text": "Contact admin for account"
+  },
+  "social_links": {
+    "telegram": "https://t.me/RS5ARIF",
+    "github": "https://github.com/",
+    "youtube": "https://youtube.com/",
+    "whatsapp": "https://whatsapp.com/"
+  },
+  "users": [
+    {
+      "username": "arif",
+      "password": "mypassword123",
+      "device_id": "DEV-XYZ123456789ABC",
+      "expiry_date": "2026-12-31",
+      "is_allowed": true,
+      "status": "blocked"
+    }
+  ]
+}
