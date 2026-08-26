@@ -40,8 +40,8 @@
   "users": [
     {
       "username": "arif",
-      "password": "mypassword123",
-      "device_id": "DEV-BKJKMQ-U552",
+      "password": "123",
+      "device_id": "DEV-BKJKMQ-MIAR",
       "expiry_date": "2026-12-31",
       "is_allowed": true,
       "status": "active"
