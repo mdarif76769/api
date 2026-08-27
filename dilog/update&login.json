@@ -15,7 +15,7 @@
     "video_url": "https://example.com/background.mp4"
   },
   "update_system": {
-    "is_update_required": false,
+    "is_update_required": true,
     "title": "Update Available!",
     "subtitle": "A new version of app is ready",
     "notes": "• Added new security features.<br>• Bug fixes and speed improvements.",
