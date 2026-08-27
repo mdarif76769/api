@@ -9,7 +9,7 @@
     "input_bg": "rgba(15, 23, 42, 0.8)"
   },
   "media_assets": {
-    "use_remote_logo": false,
+    "use_remote_logo": true,
     "logo_url": "https://example.com/logo.png",
     "use_remote_video": false,
     "video_url": "https://example.com/background.mp4"
