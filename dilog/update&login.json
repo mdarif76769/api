@@ -1,19 +1,20 @@
-
 {
   "theme": {
-    "card_bg": "rgba(30, 27, 75, 0.75)",
-    "border_color": "rgba(255, 255, 255, 0.15)",
-    "text_main": "#ffffff",
-    "text_sub": "#a5b4fc",
-    "accent_color": "linear-gradient(90deg, #4f46e5, #9333ea)",
-    "input_bg": "rgba(15, 23, 42, 0.8)"
+    "card_bg": "#1E1B4B",
+    "border_color": "#FFFFFF",
+    "text_main": "#FFFFFF",
+    "text_sub": "#A5B4FC",
+    "accent_color": "#4F46E5",
+    "input_bg": "#0F172A"
   },
+
   "media_assets": {
-    "use_remote_logo": true,
+    "use_remote_logo": false,
     "logo_url": "https://example.com/logo.png",
     "use_remote_video": false,
     "video_url": "https://example.com/background.mp4"
   },
+
   "update_system": {
     "is_update_required": true,
     "title": "Update Available!",
@@ -22,6 +23,7 @@
     "download_link": "https://t.me/RS5ARIF",
     "footer_text": "RS5 Secure Systems v2.0"
   },
+
   "ui_text": {
     "title": "Welcome To Login System!",
     "subtitle": "Secure Access Portal",
@@ -31,17 +33,19 @@
     "divider_text": "Connect with us admin",
     "footer_text": "Contact admin for account"
   },
+
   "social_links": {
     "telegram": "https://t.me/RS5ARIF",
     "github": "https://github.com/mdarif76769",
     "youtube": "https://youtube.com/@mdarif76769",
     "whatsapp": "https://Whatsapp.com/+8801949644777"
   },
+
   "users": [
     {
       "username": "arif",
       "password": "123",
-      "device_id": "f2b5b8b88962f260",
+      "device_id": "f2b5b8b88962f20",
       "expiry_date": "2026-12-31",
       "is_allowed": true,
       "status": "active"
