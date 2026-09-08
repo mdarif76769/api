@@ -1,7 +1,7 @@
 {
   "is_login_dialog": true,
   "login_config": {
-    "title": "VIP LOGIN SYSTEM 🔑",
+    "title": "VIP LOGIN SYSTEM ☠️",
     "changelog": "Enter your credentials to access the app.\nTap HWID below to copy.",
     "icon_url": "https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
     "show_media": true,
@@ -27,8 +27,8 @@
     "show_media": true,
     "show_primary_btn": true,
     "btn_contact_text": "CONTACT ADMIN 💬",
-    "show_secondary_btn": false,
-    "btn_secondary_text": "😱",
+    "show_secondary_btn": true,
+    "btn_secondary_text": "😱📥",
     "contact_url": "https://t.me/RS5ARIF",
     "title_color": "#FF5252",
     "bg_start": "#2C1C1C",
@@ -73,9 +73,9 @@
     {
       "hwid": "RS5-6D36305515",
       "username": "RS5ARIF",
-      "password": "RSMODS",
+      "password": "RSMOD",
       "active": true,
-      "blocked": false,
+      "blocked": true,
       "expiry_date": "2026-12-31" 
     }
   ]
