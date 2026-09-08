@@ -62,19 +62,21 @@
     "btn_secondary_text": "#A0A0B0"
   },
   "users": [
-    {
-      "hwid": "RS5-9A8B7C6D5E",
-      "username": "arif_admin",
-      "password": "pass_1234_vip",
-      "active": true,
-      "blocked": false
-    },
+  {
+    "hwid": "RS5-6D3635515",
+    "username": "RS5ARIF",
+    "password": "RSMODS",
+    "active": true,
+    "blocked": false,
+    "expiry_date": "2026-12-31" 
+  },
     {
       "hwid": "RS5-6D36305515",
       "username": "RS5ARIF",
       "password": "RSMODS",
       "active": true,
-      "blocked": false
+      "blocked": true,
+      "expiry_date": "2026-12-31" 
     }
   ]
 }
