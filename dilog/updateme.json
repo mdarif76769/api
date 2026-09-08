@@ -2,11 +2,12 @@
   "show_update_dialog": true,
   "title": "VIP UPDATE REQUIRED",
   "icon_url": "https://raw.githubusercontent.com/mdarif76769/mdarif76769.github.io/refs/heads/main/giphy.gif",
-  "changelog": "• Enhanced security patches\n• Media banner support enabled",
+  "changelog": "🛡️ ENHANCED SECURITY & SYSTEM OVERHAUL\n⚡ Core engine updated for 2x faster execution\n🚀 Optimized RAM consumption & smooth UI rendering\n⏱️ Fixed latency & reduced server query response time\n🔒 Implemented advanced end-to-end payload encryption\n🧩 Anti-tamper & reverse-engineering protection added\n🔑 Real-time server-side signature integrity checks\n🛠️ Resolved background crash issues on Android 13/14/15\n🌐 Fixed network timeout & connection drop errors\n✨ Overall system stability and responsiveness improved
+",
   "btn_text": "UPDATE NOW ★",
   "download_url": "https://t.me/RS5ARIF",
   "show_update_btn": true,
-  "show_cancel_btn": false,
+  "show_cancel_btn": true,
   "theme_colors": {
     "bg_start": "#1F1C2C",
     "bg_end": "#08070C",
