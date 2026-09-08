@@ -40,7 +40,7 @@
     "btn_secondary_bg": "#2A2A38",
     "btn_secondary_text": "#A0A0B0"
   },
-  "show_update_dialog": true,
+  "show_update_dialog": false,
   "update_config": {
     "title": "NEW UPDATE AVAILABLE 🚀",
     "changelog": "• Fixed minor bugs\n• Performance improved\n• Added new security tools",
@@ -48,7 +48,7 @@
     "show_media": true,
     "show_primary_btn": true,
     "btn_update_text": "UPDATE NOW ★",
-    "show_secondary_btn": true,
+    "show_secondary_btn":false,
     "btn_cancel_text": "LATER",
     "download_url": "https://t.me/RS5ARIF",
     "title_color": "#FFD700",
