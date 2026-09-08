@@ -1,0 +1,80 @@
+{
+  "is_login_dialog": true,
+  "login_config": {
+    "title": "VIP LOGIN SYSTEM 🔑",
+    "changelog": "Enter your credentials to access the app.\nTap HWID below to copy.",
+    "icon_url": "https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
+    "show_media": true,
+    "show_primary_btn": true,
+    "btn_login_text": "LOGIN 🔑",
+    "show_secondary_btn": true,
+    "btn_get_key_text": "GET KEY 💬",
+    "get_key_url": "https://t.me/RS5ARIF",
+    "title_color": "#FFD700",
+    "bg_start": "#1F1C2C",
+    "bg_end": "#08070C",
+    "border_color": "#FFD700",
+    "btn_primary_start": "#FFE066",
+    "btn_primary_end": "#D4AF37",
+    "btn_primary_text": "#000000",
+    "btn_secondary_bg": "#2A2A38",
+    "btn_secondary_text": "#A0A0B0"
+  },
+  "blocked_config": {
+    "title": "ACCESS BLOCKED 🚫",
+    "blocked_message": "Your HWID / Account is permanently blocked by Admin!",
+    "icon_url": "https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
+    "show_media": true,
+    "show_primary_btn": true,
+    "btn_contact_text": "CONTACT ADMIN 💬",
+    "show_secondary_btn": false,
+    "btn_secondary_text": "😱",
+    "contact_url": "https://t.me/RS5ARIF",
+    "title_color": "#FF5252",
+    "bg_start": "#2C1C1C",
+    "bg_end": "#0C0707",
+    "border_color": "#FF5252",
+    "btn_primary_start": "#FF5252",
+    "btn_primary_end": "#B22222",
+    "btn_primary_text": "#FFFFFF",
+    "btn_secondary_bg": "#2A2A38",
+    "btn_secondary_text": "#A0A0B0"
+  },
+  "show_update_dialog": true,
+  "update_config": {
+    "title": "NEW UPDATE AVAILABLE 🚀",
+    "changelog": "• Fixed minor bugs\n• Performance improved\n• Added new security tools",
+    "icon_url": "https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif",
+    "show_media": true,
+    "show_primary_btn": true,
+    "btn_update_text": "UPDATE NOW ★",
+    "show_secondary_btn": true,
+    "btn_cancel_text": "LATER",
+    "download_url": "https://t.me/RS5ARIF",
+    "title_color": "#FFD700",
+    "bg_start": "#1F1C2C",
+    "bg_end": "#08070C",
+    "border_color": "#FFD700",
+    "btn_primary_start": "#FFE066",
+    "btn_primary_end": "#D4AF37",
+    "btn_primary_text": "#000000",
+    "btn_secondary_bg": "#2A2A38",
+    "btn_secondary_text": "#A0A0B0"
+  },
+  "users": [
+    {
+      "hwid": "RS5-9A8B7C6D5E",
+      "username": "arif_admin",
+      "password": "pass_1234_vip",
+      "active": true,
+      "blocked": false
+    },
+    {
+      "hwid": "RS5-1A2B3C4D5E",
+      "username": "demo_user",
+      "password": "user_pass_2026",
+      "active": true,
+      "blocked": true
+    }
+  ]
+}
