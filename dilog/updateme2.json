@@ -40,7 +40,7 @@
     "btn_secondary_bg": "#2A2A38",
     "btn_secondary_text": "#A0A0B0"
   },
-  "show_update_dialog": false,
+  "show_update_dialog": true,
   "update_config": {
     "title": "NEW UPDATE AVAILABLE 🚀",
     "changelog": "• Fixed minor bugs\n• Performance improved\n• Added new security tools",
