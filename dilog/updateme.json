@@ -1,11 +1,11 @@
 {
   "version_code": 3,
   "version": "3.1.2",
-  "title": "VIP UPDATE AVAILABLE",
-  "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icon.png",
+  "title": "UPDATE AVAILABLE",
+  "icon_url": "https://raw.githubusercontent.com/mdarif76769/mdarif76769/main/icon.png",
   "changelog": "• Premium High-Speed Servers\n• Completely Ad-Free Experience\n• Enhanced Security Protocols",
-  "btn_text": "INSTALL NOW ★",
-  "download_url": "https://example.com/app-release.apk",
+  "btn_text": "UPDATE NOW ★",
+  "download_url": "https://t.me/RS5ARIF",
   "show_update_btn": true,
-  "show_cancel_btn": false
+  "show_cancel_btn": true
 }
