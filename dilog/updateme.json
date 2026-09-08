@@ -5,5 +5,7 @@
   "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icon.png",
   "changelog": "• Premium High-Speed Servers\n• Completely Ad-Free Experience\n• Enhanced Security Protocols",
   "btn_text": "INSTALL NOW ★",
-  "download_url": "https://example.com/app-release.apk"
+  "download_url": "https://example.com/app-release.apk",
+  "show_update_btn": true,
+  "show_cancel_btn": false
 }
