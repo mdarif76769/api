@@ -2,7 +2,7 @@
   "show_update_dialog": true,
   "title": "VIP UPDATE REQUIRED",
   "icon_url": "https://raw.githubusercontent.com/mdarif76769/mdarif76769.github.io/refs/heads/main/giphy.gif",
-  "changelog": "🛡️ ENHANCED SECURITY & SYSTEM OVERHAUL\n⚡ Core engine updated for 2x faster execution\n🚀 Optimized RAM consumption & smooth UI rendering\n🔑 Real-time server-side signature integrity checks\n🛠️ Resolved background crash issues on Android 13/14/15\n🌐 Fixed network timeout & connection drop errors",
+  "changelog": "🛡️ ENHANCED SECURITY & SYSTEM OVERHAUL\n⚡ Core engine updated for 2x faster execution\n🔑 Real-time server-side signature integrity checks\n🛠️ Resolved background crash issues on Android 13/14/15\n🌐 Fixed network timeout & connection drop errors",
   "btn_text": "UPDATE NOW ★",
   "download_url": "https://t.me/RS5ARIF",
   "show_update_btn": true,
