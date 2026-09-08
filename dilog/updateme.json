@@ -1,7 +1,8 @@
 {
+  "version_code": 3,
   "version": "3.1.2",
   "title": "VIP UPDATE AVAILABLE",
-  "icon_url": "https://raw.githubusercontent.com/username/repo/main/icon.png",
+  "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icon.png",
   "changelog": "• Premium High-Speed Servers\n• Completely Ad-Free Experience\n• Enhanced Security Protocols",
   "btn_text": "INSTALL NOW ★",
   "download_url": "https://example.com/app-release.apk"
