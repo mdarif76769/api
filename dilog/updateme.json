@@ -1,10 +1,10 @@
 {
   "show_update_dialog": true,
-  "title": "VIP UPDATE AVAILABLE",
+  "title": "VIP UPDATE REQUIRED",
   "icon_url": "",
-  "changelog": "• Premium High-Speed Servers\n• Completely Ad-Free Experience\n• Enhanced Security Protocols",
+  "changelog": "• Important security patch and fixes.\n• Please update to continue using the app.",
   "btn_text": "UPDATE NOW ★",
-  "download_url": "https://t.me/RS5ARIF",
+  "download_url": "https://example.com/app-release.apk",
   "show_update_btn": true,
   "show_cancel_btn": true,
   "theme_colors": {
