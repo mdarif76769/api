@@ -1,11 +1,21 @@
 {
-  "version_code": 3,
-  "version": "3.1.2",
-  "title": "UPDATE AVAILABLE",
-  "icon_url": "https://raw.githubusercontent.com/mdarif76769/mdarif76769/main/icon.png",
+  "show_update_dialog": true,
+  "title": "VIP UPDATE AVAILABLE",
+  "icon_url": "",
   "changelog": "• Premium High-Speed Servers\n• Completely Ad-Free Experience\n• Enhanced Security Protocols",
   "btn_text": "UPDATE NOW ★",
   "download_url": "https://t.me/RS5ARIF",
   "show_update_btn": true,
-  "show_cancel_btn": true
+  "show_cancel_btn": true,
+  "theme_colors": {
+    "bg_start": "#1F1C2C",
+    "bg_end": "#08070C",
+    "border_color": "#FFD700",
+    "title_color": "#FFD700",
+    "btn_update_start": "#FFE066",
+    "btn_update_end": "#D4AF37",
+    "btn_update_text": "#000000",
+    "btn_cancel_bg": "#2A2A38",
+    "btn_cancel_text": "#A0A0B0"
+  }
 }
