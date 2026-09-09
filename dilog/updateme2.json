@@ -48,7 +48,7 @@
     "show_media": true,
     "show_primary_btn": true,
     "btn_update_text": "UPDATE NOW ★",
-    "show_secondary_btn":false,
+    "show_secondary_btn": false,
     "btn_cancel_text": "LATER",
     "download_url": "https://t.me/RS5ARIF",
     "title_color": "#FFD700",
@@ -62,21 +62,21 @@
     "btn_secondary_text": "#A0A0B0"
   },
   "users": [
-  {
-    "hwid": "RS5-6D3635515",
-    "username": "RS5ARIF",
-    "password": "RSMODS",
-    "active": true,
-    "blocked": false,
-    "expiry_date": "2026-12-31" 
-  },
+    {
+      "hwid": "RS5-6D3635515",
+      "username": "RS5ARIF",
+      "password": "RSMODS",
+      "active": true,
+      "blocked": false,
+      "expiry_date": "2026-12-31"
+    },
     {
       "hwid": "RS5-6D36305515",
       "username": "RS5ARIF",
       "password": "RSMODS",
       "active": true,
-      "blocked": false
-      "expiry_date": "2026-12-31" 
+      "blocked": false,
+      "expiry_date": "2026-12-31"
     }
   ]
 }
