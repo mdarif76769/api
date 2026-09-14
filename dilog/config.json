@@ -1,6 +1,6 @@
 {
   "is_login_dialog": true,
-  "show_update_dialog": false,
+  "show_update_dialog": true,
   "update_config": {
     "title": "NEW UPDATE AVAILABLE 🚀",
     "changelog": "• Fixed minor bugs\n• Performance improved\n• Added new security tools",
@@ -110,7 +110,7 @@
       "otp_code": "123456",
       "active": true,
       "blocked": false,
-      "expiry_date": "2025-12-31"
+      "expiry_date": "2026-12-31"
     }
   ]
 }
