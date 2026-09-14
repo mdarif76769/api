@@ -84,8 +84,8 @@
       "password": "RSMODS",
       "otp_code": "654321",
       "active": true,
-      "blocked": true,
-      "expiry_date": "2026-12-31"
+      "blocked": false,
+      "expiry_date": "2025-12-31"
     }
   ]
 }
