@@ -86,7 +86,7 @@
   },
   "users": [
     {
-      "hwid": "YOUR_DEVICE_HWID_HERE",
+      "hwid": "6d36305515d6e1d5",
       "username": "admin",
       "password": "123",
       "expiry_date": "2026-12-31",
