@@ -7,16 +7,20 @@
     "icon_url": "https://raw.githubusercontent.com/mdarif76769/mdarif76769.github.io/refs/heads/main/giphy.gif",
     "show_media": true,
     "show_primary_btn": true,
-    "show_secondary_btn": true,
     "btn_update_text": "UPDATE NOW ★",
     "download_url": "https://t.me/RS5ARIF",
+    "show_secondary_btn": true,
+    "btn_secondary_text": "CANCEL ✕",
+    "btn_secondary_url": "",
     "title_color": "#2E7D32",
     "bg_start": "#F4F7FC",
     "bg_end": "#F4F7FC",
     "border_color": "#00C853",
     "btn_primary_start": "#00C853",
     "btn_primary_end": "#00C853",
-    "btn_primary_text": "#FFFFFF"
+    "btn_primary_text": "#FFFFFF",
+    "btn_secondary_bg": "#E0E0E0",
+    "btn_secondary_text_color": "#333333"
   },
   "login_config": {
     "title": "VIP LOGIN SYSTEM ☠️",
@@ -40,19 +44,23 @@
   },
   "expired_config": {
     "title": "KEY IS EXPIRED ⚠️",
-    "changelog": "Your key/subscription has expired. Please get a new key to proceed.",
+    "changelog": "Your key/subscription has expired. Get a new key or go back to login with a different credential.",
     "icon_url": "https://raw.githubusercontent.com/mdarif76769/mdarif76769.github.io/refs/heads/main/giphy.gif",
     "show_media": true,
     "show_primary_btn": true,
     "btn_get_key_text": "GET NEW KEY 💬",
     "get_key_url": "https://t.me/RS5ARIF",
+    "show_secondary_btn": true,
+    "btn_secondary_text": "BACK TO LOGIN ↩",
     "title_color": "#D32F2F",
     "bg_start": "#F4F7FC",
     "bg_end": "#F4F7FC",
     "border_color": "#FF5252",
     "btn_primary_start": "#FF5252",
     "btn_primary_end": "#D32F2F",
-    "btn_primary_text": "#FFFFFF"
+    "btn_primary_text": "#FFFFFF",
+    "btn_secondary_bg": "#757575",
+    "btn_secondary_text_color": "#FFFFFF"
   },
   "otp_config": {
     "title": "VERIFY OTP 🔒",
@@ -87,7 +95,7 @@
   },
   "users": [
     {
-      "hwid": "RS5-6D3635515",
+      "hwid": "6d363055156e1d5",
       "username": "RS5ARIF",
       "password": "RSMODS",
       "otp_code": "123456",
@@ -99,10 +107,10 @@
       "hwid": "6d36305515d6e1d5",
       "username": "RS5ARIF",
       "password": "RSMODS",
-      "otp_code": "654321",
+      "otp_code": "123456",
       "active": true,
       "blocked": false,
-      "expiry_date": "2026-12-31"
+      "expiry_date": "2025-12-31"
     }
   ]
 }
