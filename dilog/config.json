@@ -9,7 +9,7 @@
     "show_primary_btn": true,
     "btn_update_text": "UPDATE NOW ★",
     "download_url": "https://t.me/RS5ARIF",
-    "show_secondary_btn": true,
+    "show_secondary_btn": false,
     "btn_secondary_text": "CANCEL ✕",
     "btn_secondary_url": "",
     "title_color": "#2E7D32",
@@ -107,7 +107,7 @@
       "hwid": "6d36305515d6e1d5",
       "username": "RS5ARIF",
       "password": "RSMODS",
-      "otp_code": "123456",
+      "otp_code": "123666",
       "active": true,
       "blocked": false,
       "expiry_date": "2026-12-31"
