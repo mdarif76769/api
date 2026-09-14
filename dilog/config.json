@@ -1,6 +1,6 @@
 {
   "is_login_dialog": true,
-  "show_update_dialog": true,
+  "show_update_dialog": false,
   "update_config": {
     "title": "NEW UPDATE AVAILABLE 🚀",
     "changelog": "• Fixed minor bugs\n• Performance improved\n• Added new security tools",
@@ -106,7 +106,7 @@
     {
       "hwid": "6d36305515d6e1d5",
       "username": "RS5ARIF",
-      "password": "RSMODS",
+      "password": "RSMOD",
       "otp_code": "123666",
       "active": true,
       "blocked": false,
